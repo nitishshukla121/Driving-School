@@ -18,8 +18,5 @@ A comprehensive **Driving School Management System** built using **Advanced Java
 - **JSP & MVC Architecture**: Separated concerns for better code management and scalability.
 
 ## Live Demo 🌍
-Currently, this project can be run locally. You can set it up by following the instructions below.
+Currently, this project can be run locally. I will host it later
 
-## Getting Started 🚀
-
-1. **Clone the repository**:
